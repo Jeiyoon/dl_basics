@@ -1,4 +1,4 @@
-# Deep Learning
+# Deep Learning (from scratch)
 
 ## About Me: https://jeiyoon.github.io/
 
