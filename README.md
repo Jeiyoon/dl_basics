@@ -2,8 +2,6 @@
 
 ## About Me: https://jeiyoon.github.io/
 
-## Posts: [TBA](https://jeiyoon.github.io/k4ke/)
-
 ## Latest Update: 12.27.2020
 
 ## Credit: this repository is based on awsome work
