@@ -12,5 +12,7 @@
 
 https://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198
 
+![dl_from_scratch](https://github.com/Jeiyoon/myTorch/blob/main/dl_from_scratch.jpg)
+
 ---
 
