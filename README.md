@@ -2,7 +2,7 @@
 
 ## About Me: https://jeiyoon.github.io/
 
-## Latest Update: 12.27.2020
+## Latest Update: 12.28.2020
 
 ## Credit: this repository is based on awsome work
 ---
